@@ -1,5 +1,5 @@
 
-#source("plot.R")
+source("plot.R")
 options(scipen=999)
 par(mfrow=c(2,2))
 
